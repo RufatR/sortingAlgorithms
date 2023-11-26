@@ -1,7 +1,6 @@
 import algorithmService.SortingAlgorithms;
 import algorithmService.bubblesort.BubbleSortImpl;
 import algorithmService.mergeSort.MergeSortImpl;
-import algorithmService.quickSort.QuickSortAlgorithm;
 import algorithmService.quickSort.QuickSortImpl;
 import algorithmService.shakerSort.ShakerSortOrCocktailSortImpl;
 
