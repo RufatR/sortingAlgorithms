@@ -1,6 +1,9 @@
 package algorithmService.shakerSort;
 
-public class ShakerSortOrCocktailSortImpl implements IShakerSortOrCocktailSort {
+import algorithmService.SortingAlgorithms;
+
+
+public class ShakerSortOrCocktailSortImpl implements SortingAlgorithms {
     @Override
     public void sort(int[] arr) {
 

@@ -1,6 +1,8 @@
 package algorithmService.bubblesort;
 
-public class BubbleSortImpl implements IBubbleSort {
+import algorithmService.SortingAlgorithms;
+
+public class BubbleSortImpl implements SortingAlgorithms {
 
     @Override
     public void sort(int[] arr) {
